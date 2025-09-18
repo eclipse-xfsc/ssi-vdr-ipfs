@@ -3,7 +3,6 @@ module github.com/eclipse-xfsc/ssi-vdr-ipfs
 go 1.24.0
 
 require (
-	bou.ke/monkey v1.0.2
 	github.com/ipfs/boxo v0.17.0
 	github.com/ipfs/go-cid v0.4.1
 	github.com/ipfs/kubo v0.26.0
